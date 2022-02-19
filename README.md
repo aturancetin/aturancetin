@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/superpeer-logo.svg)](https://aturancetin.vercel.app/#gh-light-mode-only)
+[![website](./img/superpeer-logo.svg)](https://superpeer.com/aturancetin)
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://aturancetin.vercel.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://aturancetin.vercel.app/#gh-dark-mode-only)
