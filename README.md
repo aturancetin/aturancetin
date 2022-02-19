@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://aturancetin.vercel.app/)
-[![website](./img/globe-dark.svg)](https://aturancetin.vercel.app/)
+[![website](./img/globe-light.svg)](https://aturancetin.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://aturancetin.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/aturancetin#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/aturancetin#gh-dark-mode-only)
